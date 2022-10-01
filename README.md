@@ -1,4 +1,4 @@
-# Othello-Game-Application
+# Othello Game Application
 Implement the Othello game.
 The opponent is the computer.
 The computer's movements are guided by the Mini-Max algorithm.
